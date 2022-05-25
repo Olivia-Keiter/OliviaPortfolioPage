@@ -6,6 +6,14 @@
   - [Azure Sentinel](https://github.com/Olivia-Keiter/AzureSentinel)
 - <b>PowerShell Scripts</b>
   - [Azure Active Directory Automation](https://github.com/Olivia-Keiter/PowerShellAzureAD)
+  
+<h2>Certifications:</h2>
+  - [Azure Fundamentals AZ-900](https://www.credly.com/badges/17217f87-6c19-4545-bf77-b260f6a57d98)
+  
+<h2>⚡Challenges:</h2>
+- <b>Azure:</b>
+  - [PowerShell IaaS](https://www.credly.com/badges/60394861-7f2a-4fca-901c-9578017cd31a)
+  - [Azure Fundamentals](https://www.credly.com/badges/43ed819b-d0df-4d83-a248-a5117ffd55c6)
 
 <h2> 🤳 Connect with me:</h2>
 
