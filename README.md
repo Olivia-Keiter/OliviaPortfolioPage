@@ -3,9 +3,9 @@
 <h2>👨‍💻 Passion Projects:</h2>
 
 - <b>Azure Sentinel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel](https://github.com/Olivia-Keiter/AzureSentinel)
 - <b>PowerShell Scripts</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Active Directory Automation](https://github.com/Olivia-Keiter/PowerShellAzureAD)
 
 <h2> 🤳 Connect with me:</h2>
 
