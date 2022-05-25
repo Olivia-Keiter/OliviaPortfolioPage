@@ -9,13 +9,13 @@
   
 <h2>💻 Certifications:</h2>
 
-- <b>Azure</b>
+- <b>☁️Azure</b>
   - [Azure Fundamentals](https://www.credly.com/badges/575e42ff-8dce-4d11-b285-2b41d7ec78f5)
   - [Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/575e42ff-8dce-4d11-b285-2b41d7ec78f5)
   
-<h2>Challenges:</h2>
+<h2>⚡️Challenges:</h2>
 
-- <b>Azure</b>
+- <b>☁️Azure</b>
   - [PowerShell IaaS](https://www.credly.com/badges/60394861-7f2a-4fca-901c-9578017cd31a)
   - [Azure Infrastructure Fundamentals](https://www.credly.com/badges/43ed819b-d0df-4d83-a248-a5117ffd55c6)
 - <b>Windows Server</b>
